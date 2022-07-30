@@ -17,8 +17,9 @@ this tool analize a file o many files inside directory with yara and capa to fin
 This tool will:
 1. create a folder inside Documents folder (if not exists);
 2. download the last version of capa and yara and unzip them (if not exist);
-3. create a config file to customize some parameters (experimental);
-4. scan file or files;
+3. download Yara rules (if not exist);
+4. create a config file to customize some parameters (experimental);
+5. scan file or files;
 
 This tool will not modify o delete any file, but be carefull when You use it.
 
@@ -28,7 +29,7 @@ there are some parameters,
 - <strong>dangerous</strong>, another numeric parameter to evaluate the score of the suspected file, if the score is equal or greater than <strong>dangerous</strong> value, the suspected file is <strong>dangerous</strong> (<strong>dangerous</strong> has a default value);
 - <strong>extensions</strong>, this string value contains the <strong>extensions</strong> of every files you could analize inside a folder (<strong>extensions</strong> has a default value);
 
-this is the default config file inside fdsecurity folder, in Documents path:
+This is the default config file inside fdsecurity folder, in Documents path:
 fdsecurity.config
 ```
 warning=50
