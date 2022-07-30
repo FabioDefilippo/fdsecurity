@@ -28,7 +28,8 @@ there are some parameters,
 - <strong>dangerous</strong>, another numeric parameter to evaluate the score of the suspected file, if the score is equal or greater than <strong>dangerous</strong> value, the suspected file is <strong>dangerous</strong> (<strong>dangerous</strong> has a default value);
 - <strong>extensions</strong>, this string value contains the <strong>extensions</strong> of every files you could analize inside a folder (<strong>extensions</strong> has a default value);
 
-this is the default config file:
+this is the default config file inside fdsecurity folder, in Documents path:
+fdsecurity.config
 ```
 warning=50
 dangerous=100
