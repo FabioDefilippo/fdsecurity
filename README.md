@@ -1,16 +1,24 @@
 # fdsecurity
-this tool analizes a file o many files inside directory with yara and capa to find suspected file
+This tool analizes a file o many files inside directory with yara and capa to find suspected file, without delete it.
 
 ## HOW TO USE IT:
-
-- to analize a single file, digit
+1. Single file:
+- to analize it, digit
 ```
 .\fdsexurity.exe suspectedfile.exe
 ```
-
-- to analize many files inside a folder, digit
+- to analize and zip it in quarantine.zip, digit
+```
+.\fdsexurity.exe suspectedfile.exe -d
+```
+2. Many file inside folder:
+- to analize them, digit
 ```
 .\fdsecurity.exe C:\Users\Account\Download
+```
+- to analize and zip them, digit
+```
+.\fdsecurity.exe C:\Users\Account\Download -d
 ```
 
 ## NOTE:
@@ -21,7 +29,7 @@ This tool will:
 4. create a config file to customize some parameters (experimental);
 5. scan file or files;
 
-This tool will not modify o delete any file, but be carefull when You use it.
+This tool will ZIP only dangerous file, but be carefull when You use it.
 
 ## CONFIG FILE:
 there are some parameters,
