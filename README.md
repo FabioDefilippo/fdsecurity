@@ -37,6 +37,8 @@ This tool will:
 
 This tool will ZIP only dangerous file, but be carefull when You use it.
 
+<strong>REMEMBER</strong>: You can recover your dangerous files unzipping them from quarantine.zip file.
+
 ## CONFIG FILE:
 there are some parameters,
 - <strong>warning</strong>, a numeric parameter to evaluate the score of a suspected file, if the score is less than <strong>warning</strong> value, that file is safe (<strong>warning</strong> has a default value);
