@@ -1,5 +1,5 @@
 # fdsecurity
-this tool analize a file o many files inside directory with yara and capa to find suspected file
+this tool analizes a file o many files inside directory with yara and capa to find suspected file
 
 ## HOW TO USE IT:
 
