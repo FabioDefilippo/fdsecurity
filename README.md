@@ -2,6 +2,12 @@
 This tool analizes a file o many files inside directory with yara and capa to find suspected file, without delete it.
 
 ## HOW TO USE IT:
+
+fdsecurity.exe file | folder {-d}
+-h --help /?	show manual
+-d --delete 	automatic zipping dangerous file in quarantine.zip
+
+### examples:
 1. Single file:
 - to analize it, digit
 ```
