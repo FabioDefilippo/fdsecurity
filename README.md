@@ -3,8 +3,10 @@ This tool analizes a file o many files inside directory with yara and capa to fi
 
 ## HOW TO USE IT:
 
-fdsecurity.exe file | folder {-d}
+fdsecurity.exe (file | folder) {-d}
+
 -h --help /?	show manual
+
 -d --delete 	automatic zipping dangerous file in quarantine.zip
 
 ### examples:
