@@ -9,6 +9,10 @@ fdsecurity.exe (file | folder) {-d}
 
 -d --delete 	automatic zipping dangerous file in quarantine.zip
 
+-u --update 	update capa, yara and yara-rules
+
+-l --loop 	scan folder in loop
+
 ### examples:
 1. Single file:
 - to analize it, digit
@@ -19,6 +23,15 @@ fdsecurity.exe (file | folder) {-d}
 ```
 .\fdsexurity.exe suspectedfile.exe -d
 ```
+- scanning folder in loop and delete dangerous files
+```
+.\fdsexurity.exe suspectedfolder -d -l
+```
+- update capa, yara and yara-rules
+```
+.\fdsexurity.exe -u
+```
+
 2. Many file inside folder:
 - to analize them, digit
 ```
