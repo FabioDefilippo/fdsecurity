@@ -5,5 +5,6 @@
 
 ## 02-08-2022
 
-- Add update flag;
+- Add <strong>-u</strong> or <strong>--update</strong> flag to update capa, yara and yara-rules;
+- Add <strong>-l</strong> or <strong>--loop</strong> flag to scan folder in loop;
 - fix scanning folder bug;
