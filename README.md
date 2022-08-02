@@ -1,4 +1,6 @@
 # fdsecurity
+<strong>F</strong>abio <strong>D</strong>efilippo <strong>Security</strong>, by FabioDefilippoSoftware
+## fdsecurity is not a project in JavaScript and is not an add-on or component for websites!
 This tool analizes a file o many files inside directory with yara and capa to find suspected file, without delete it.
 
 ## HOW TO USE IT:
