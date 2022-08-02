@@ -5,13 +5,13 @@ This tool analizes a file o many files inside directory with yara and capa to fi
 
 fdsecurity.exe (file | folder) {-d}
 
--h --help /?&#9;&#9;show manual
+-h --help /?&nbsp;&nbsp;show manual
 
--d --delete&#9;&#9;automatic zipping dangerous file in quarantine.zip
+-d --delete&nbsp;&nbsp;automatic zipping dangerous file in quarantine.zip
 
--u --update&#9;&#9;update capa, yara and yara-rules
+-u --update&nbsp;&nbsp;update capa, yara and yara-rules
 
--l --loop&#9;&#9;scan folder in loop
+-l --loop&nbsp;&nbsp;scan folder in loop
 
 ### examples:
 1. Single file:
