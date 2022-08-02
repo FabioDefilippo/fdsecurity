@@ -4,12 +4,11 @@ This tool analizes a file o many files inside directory with yara and capa to fi
 ## HOW TO USE IT:
 
 fdsecurity.exe (file | folder) {-d}
+|flag|flag|description|
+|--|------|-----------|
 |-h|--help|show manual|
-|--|------|-----------|
 |-d|--delete|automatic zipping dangerous file in quarantine.zip|
-|--|------|-----------|
 |-u|--update|update capa, yara and yara-rules|
-|--|------|-----------|
 |-l|--loop|scan folder in loop|
 
 ### examples:
