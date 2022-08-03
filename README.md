@@ -5,7 +5,7 @@ This tool analizes a file o many files inside directory with yara and capa to fi
 
 ## HOW TO USE IT:
 
-fdsecurity.exe (file | folder | -u | -h | /? | --help) {-d | -l | -k}
+fdsecurity.exe (file | folder | -u | -h | /? | --help) {-d | -l | -k | -v}
 |flag|flag|description|
 |--|------|-----------|
 |-h|--help|show manual|
@@ -13,6 +13,7 @@ fdsecurity.exe (file | folder | -u | -h | /? | --help) {-d | -l | -k}
 |-u|--update|update capa, yara and yara-rules|
 |-l|--loop|scan folder in loop|
 |-k|--kill|kill process based on execution path or complete file name|
+|-v|--verbose|verbose mode|
 
 ### examples:
 1. Single file:
@@ -28,6 +29,10 @@ fdsecurity.exe (file | folder | -u | -h | /? | --help) {-d | -l | -k}
 ```
 .\fdsexurity.exe suspectedfile.exe -d -k
 ```
+- to analize in verbose mode, digit
+```
+.\fdsexurity.exe suspectedfile.exe -v
+```
 
 2. Many file inside folder:
 - to analize them, digit
@@ -41,6 +46,10 @@ fdsecurity.exe (file | folder | -u | -h | /? | --help) {-d | -l | -k}
 - scanning folder in loop and delete dangerous files
 ```
 .\fdsexurity.exe suspectedfolder -d -l
+```
+- scanning folder in verbose mode and delete dangerous files
+```
+.\fdsexurity.exe suspectedfolder -d -v
 ```
 
 3. Others:
