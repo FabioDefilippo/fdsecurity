@@ -5,7 +5,7 @@ This tool analizes a file o many files inside directory with yara and capa to fi
 
 ## HOW TO USE IT:
 
-fdsecurity.exe (file | folder) {-d}
+fdsecurity.exe (file | folder | -u | -h | /? | --help) {-d | -l | -k}
 |flag|flag|description|
 |--|------|-----------|
 |-h|--help|show manual|
