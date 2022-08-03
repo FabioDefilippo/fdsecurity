@@ -1,3 +1,8 @@
+## 04-08-2022
+Added <strong>-v</strong> or <strong>--verbose</strong> flag to scan in verbose mode;
+- Fixed some bugs;
+- Added Date and Time infos; 
+
 ## 03-08-2022
 - Added <strong>-k</strong> or <strong>--kill</strong> flag to kill process based on execution path or complete file name;
 - Fixed some bugs;
