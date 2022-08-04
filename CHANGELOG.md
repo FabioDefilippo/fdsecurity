@@ -1,5 +1,12 @@
+## 05-08-2022
+- Added <strong>-y</strong> or <strong>--yara</strong> flag to scan with only yara;
+- Added <strong>-c</strong> or <strong>--capa</strong> flag to scan with only capa;
+- Fixed some bugs;
+- Fixed verbose mode to check the matches for each yara and capa rules;
+- Added more infos during scans;
+
 ## 04-08-2022
-Added <strong>-v</strong> or <strong>--verbose</strong> flag to scan in verbose mode;
+- Added <strong>-v</strong> or <strong>--verbose</strong> flag to scan in verbose mode;
 - Fixed some bugs;
 - Added Date and Time infos; 
 
