@@ -5,7 +5,7 @@ This tool analizes a file o many files inside directory with yara and capa to fi
 
 ## HOW TO USE IT:
 
-fdsecurity.exe (file | folder | -u | -h | /? | --help) {-d | -l | -k | -v}
+fdsecurity.exe (file | folder | -u | -h | /? | --help) {-d | -l | -k | -v | -c | -y}
 |flag|flag|description|
 |--|------|-----------|
 |-h|--help|show manual|
@@ -14,6 +14,8 @@ fdsecurity.exe (file | folder | -u | -h | /? | --help) {-d | -l | -k | -v}
 |-l|--loop|scan folder in loop|
 |-k|--kill|kill process based on execution path or complete file name|
 |-v|--verbose|verbose mode|
+|-y|--yara|scanning with only yara|
+|-c|--capa|scanning with only capa|
 
 ### examples:
 1. Single file:
