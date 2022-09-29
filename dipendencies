@@ -2,4 +2,4 @@ capa=https://github.com/mandiant/capa/releases/download/v4.0.1/capa-v4.0.1-windo
 yara=https://github.com/VirusTotal/yara/releases/download/v4.2.3/yara-4.2.3-2029-win32.zip
 yara-rules=https://github.com/Yara-Rules/rules/archive/refs/heads/master.zip
 sandbox=https://github.com/sandboxie-plus/Sandboxie/releases/download/v1.3.5/Sandboxie-Plus-x64-v1.3.5.exe
-ips=none
+ips=https://www.snort.org/downloads/snort/Snort_2_9_20_Installer.x64.exe
