@@ -17,6 +17,7 @@ fdsecurity.exe (file | folder | -u | -h | /? | --help) {-d | -l | -k | -v | -c |
 |-y|--yara|scanning with only yara|
 |-c|--capa|scanning with only capa|
 |-a|--async|async scanning|
+|-i|--ips|run ips/ids in async mode|
 
 ### examples:
 1. Single file:
@@ -59,6 +60,10 @@ fdsecurity.exe (file | folder | -u | -h | /? | --help) {-d | -l | -k | -v | -c |
 - update capa, yara and yara-rules
 ```
 .\fdsexurity.exe -u
+```
+- run the ips or the ids in async mode
+```
+.\fdsecurity.exe -i
 ```
 
 ## NOTE:
