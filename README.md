@@ -11,4 +11,4 @@ Youc could help me pull missed SHA256 checksum with tags!
 
 ### How?
 
-EASY! Make a pull request! I will check if your checksum is right a I will add the new checksum in xml file!
+EASY! Make a pull request! I will check if your checksum is right and I will add the new checksum in xml file!
