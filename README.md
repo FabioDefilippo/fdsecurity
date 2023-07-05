@@ -8,7 +8,7 @@ Extensions: bat, cmd, dll, doc, docm, exe, hta, js, pdf, rar, rtf, vbe, vbs, xls
 
 ## WARNING:
 
-Youc could help me pull missed SHA256 checksum with tags!
+You could help me pulling missed SHA256 checksum with tags!
 
 ### How?
 
