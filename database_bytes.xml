@@ -1,3 +1,5 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<byte>
 <value>{0F 31}</value>
 <value>{0F A2}</value>
 <value>{64 ff 35 00 00 00 00}</value>
@@ -14201,4 +14203,4 @@
 <value>{3C 3F 70 68 70 20 40 65 76 61 6C 28 24 5F 50 4F 53 54 5B ?? 70 61 73 73 77 6F 72 64 ?? 5D 29 3B 3F 3E}</value>
 <value>{ ff d8 ff e? 00 10 4a 46 49 46 }</value>
 <value>{ 89 50 4e 47 0d 0a 1a 0a }</value>
-
+</byte>
