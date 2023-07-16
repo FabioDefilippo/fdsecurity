@@ -20,13 +20,11 @@
 <value>"QEMU" wide nocase ascii</value>
 <value>"HARDWARE\\DEVICEMAP\\Scsi\\Scsi Port 0\\Scsi Bus 0\\Target Id 0\\Logical Unit Id 0" nocase wide ascii</value>
 <value>"Identifier" nocase wide ascii</value>
-<value>"QEMU" wide nocase ascii</value>
 <value>"HARDWARE\\Description\\System" nocase wide ascii</value>
 <value>"SystemBiosVersion" nocase wide ascii</value>
 <value>"VBOX" nocase wide ascii</value>
 <value>"HARDWARE\\DEVICEMAP\\Scsi\\Scsi Port 0\\Scsi Bus 0\\Target Id 0\\Logical Unit Id 0" nocase wide ascii</value>
 <value>"Identifier" nocase wide ascii</value>
-<value>"VBOX" nocase wide ascii</value>
 <value>"SOFTWARE\\Oracle\\VirtualBox Guest Additions" wide ascii nocase</value>
 <value>"HARDWARE\\Description\\System" nocase wide ascii</value>
 <value>"VideoBiosVersion" wide nocase ascii</value>
