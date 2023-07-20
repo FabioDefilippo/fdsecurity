@@ -6,9 +6,14 @@ A: These are a collection of SHA256 checksum of many malwares for Windows in man
 
 Extensions: bat, cmd, dll, doc, docm, exe, hta, js, pdf, rar, rtf, vbe, vbs, xls, xlsm, zip
 
+Q: How can I use these checksum values?
+
+A: You can create your scripts o tools that use SHA256 Hash algorithm to calculate suspected files in your computer.
+
+
 ## WARNING:
 
-You could help me pulling missed SHA256 checksum with tags!
+You could help me pulling missed SHA256 checksum values with tags!
 
 ### How?
 
