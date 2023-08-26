@@ -20,3 +20,11 @@ You could help me pulling missed SHA256 checksum values with tags!
 ### How?
 
 EASY! Make a pull request! I will check if your checksum is right and I will add the new checksum in xml file!
+
+Q: What are these Yara Rules?
+
+A: These are Compiled Yara Rules. You can use them with yara cli to perform scanning in folders, a file o a process in your Windows OS.
+
+Q: How?
+
+A: Follow the instruction inside README.md file in Yara-Rules-Compiled folder!
