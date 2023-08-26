@@ -16,7 +16,7 @@ Easy!
 - Use one of these examples under!
 
 # SCAN WITH ALL RULES:
-In these 3 examples, I will show ho to scan an exe file with all compiled yara rules, but can specify a single rule!
+In these 3 examples, I will show how to scan a folder, a Process and an exe file with all compiled yara rules, but can specify a single rule!
 
 1. To scan a folder recursively:
 ```
