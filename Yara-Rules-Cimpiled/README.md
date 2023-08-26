@@ -4,8 +4,19 @@
 
 Well, I have compiled yara rules for this reason and I will write ho to use yara cli to scan!
 
+# WARNING:
+
+To avoid problems with syntax errors, I have change the extension of compiled yara rules in yarac.
+
+# How to use them?
+
+Easy!
+- Download yara from GitHub <a href="https://github.com/VirusTotal/yara/releases">link</a>;
+- Download these compiled yara rules and paste them in a Folder;
+- Use one of these examples under!
+
 # SCAN WITH ALL RULES:
-In these 3 examples, I will show ho to scan an exe file with all rules compiled, but can specify a single rule!
+In these 3 examples, I will show ho to scan an exe file with all compiled yara rules, but can specify a single rule!
 
 1. To scan a folder recursively:
 ```
