@@ -34,7 +34,7 @@ yara64.exe -C .\Yara-Rules-Compiled\all.yarac 1234
 ```
 # CAN YOU ADD NEW YARA RULES?
 
-Yes, add your compiled yara rules (for better performance) in Yara-Rules-Compiled and write the command line
+Yes, add your compiled yara rules (for better performance) in Yara-Rules-Compiled folder and digit the follow command line:
 
 ```
-yara64.exe -C .\Yara-Rules-Compiled\new-yara-rules.yarac FILE_TO_SCAN_exe
+yara64.exe -C .\Yara-Rules-Compiled\NEW-YARA-RULE.yarac FILE_TO_SCAN_exe
