@@ -2,7 +2,7 @@
 
 # Do you want to scan every files, folder and PID in your Windows OS with a scanner who you could control and improve?
 
-Well, I have compiled yara rules for this reason and I will write ho to use yara cli to scan!
+Well, I have compiled yara rules for this reason and I will write how to use yara cli to scan!
 
 # WARNING:
 
