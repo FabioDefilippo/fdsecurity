@@ -30,7 +30,7 @@ yara64.exe -C .\Yara-Rules-Compiled\all.yarac FILE_TO_SCAN.exe
 
 3. To scan a process (Process ID):
 ```
-yara64.exe -C .\Yara-Rules-Compiled\all.yarac 1234
+yara64.exe -C .\Yara-Rules-Compiled\all.yarac PID
 ```
 # CAN YOU ADD NEW YARA RULES?
 
