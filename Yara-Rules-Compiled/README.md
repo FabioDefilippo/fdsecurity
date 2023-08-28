@@ -40,7 +40,7 @@ yara64.exe -C .\Yara-Rules-Compiled\NEW-YARA-RULE.yarac FILE_TO_SCAN_exe
 
 ## Add scanning feature in Context Menu in Windows:
 
-### WARNING: these steps must be executed by an expert and after a backup of your Registry!
+### WARNING: these steps must be executed by an expert and after a BACKUP OF YOUR REGISTRY! We decline all responsibility for any damage to the Operating System!
 
 In this example, We will suppose You have yara cli in C:\Users\James path, in a specific folder called 'yara-cli'.
 
