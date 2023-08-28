@@ -1,6 +1,6 @@
 # fdsecurity
 
-IoC!
+These are IoC values!
 
 Q: What are these XML files?
 
