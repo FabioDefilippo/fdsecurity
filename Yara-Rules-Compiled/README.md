@@ -32,10 +32,16 @@ yara64.exe -C .\Yara-Rules-Compiled\all.yarac PID
 ```
 ## CAN YOU ADD NEW YARA RULES?
 
-Yes, add your compiled yara rules (for better performance) in Yara-Rules-Compiled folder and digit the follow command line:
+Yes, add your compiled yara rules (for better performance) in Yara-Rules-Compiled folder:
 
 ```
-yara64.exe -C .\Yara-Rules-Compiled\NEW-YARA-RULE.yarac FILE_TO_SCAN_exe
+yarac64.exe .\Yara-Rules\NEW-YARA-RULE.yara .\Yara-Rules-Compiled\NEW-YARA-RULE-COMPILED.yarac
+```
+
+and digit the follow command line:
+
+```
+yara64.exe -C .\Yara-Rules-Compiled\NEW-YARA-RULE-COMPILED.yarac FILE_TO_SCAN_exe
 ```
 
 ## Add scanning feature in Context Menu in Windows:
