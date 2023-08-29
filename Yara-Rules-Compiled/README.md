@@ -71,6 +71,6 @@ In this example I will write a script to scan Downloads folder.
 
 ```
 :repeat1
-C:\Users\James\yara-cli\yara\yara64.exe -r -c -C C:\Users\James\yara-cli\COMPILED-YARA-RULES\malware.yarac %USERPROFILE%\Downloads\ | findstr /V "0$"
+@C:\Users\James\yara-cli\yara\yara64.exe -r -c -C C:\Users\James\yara-cli\COMPILED-YARA-RULES\malware.yarac %USERPROFILE%\Downloads\ | findstr /V "0$"
 @goto repeat1
 ```
