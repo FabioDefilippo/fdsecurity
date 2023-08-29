@@ -64,13 +64,13 @@ C:\Users\James\yara-cli\yara\yara64.exe -c -C C:\Users\James\yara-cli\COMPILED-Y
 
 You will have your scanning in Context Menu! When You will download a suspicious file, click on it with right button of Your mouse and then click with left button in 'Scan with FDSecurity'!
 
-## Adding looping automatic scanning of a folder and recursive inside it:
+## Adding looping automatic scanning of a folder and recursive inside it, showing only files with matching:
 
 In this example I will write a script to scan Downloads folder.
 
 
 ```
 :repeat1
-C:\Users\James\yara-cli\yara\yara64.exe -r -c -C C:\Users\James\yara-cli\COMPILED-YARA-RULES\malware.yarac %USERPROFILE%\Downloads\
+C:\Users\James\yara-cli\yara\yara64.exe -r -c -C C:\Users\James\yara-cli\COMPILED-YARA-RULES\malware.yarac %USERPROFILE%\Downloads\ | findstr /V "0$"
 @goto repeat1
 ```
