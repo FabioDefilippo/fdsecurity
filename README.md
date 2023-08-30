@@ -16,10 +16,15 @@ Q: How can I calculate SHA256 checksum of a file?
 
 A: digit this powershell commandlet!
 
-NOTE: in this example, I will calculate SHA256 checksum of a file with exe extension, in List format:
+NOTE: in this example, I will calculate SHA256 (the default algorithm) checksum of a file with exe extension, in List format:
 
 ```
 Get-FileHash FILE_TO_CHECK.exe | Format-List
+```
+if SHA256 was not the default algorithm, digit:
+
+```
+Get-FileHash FILE_TO_CHECK.exe -Algorithm SHA256 | Format-List
 ```
 
 ## WARNING:
