@@ -1,4 +1,4 @@
-# Yara Rules Compiled
+# Compiled Yara Rules
 
 ## Do you want to scan every files, folder and PID in your Windows OS with a scanner who you could control and improve?
 
