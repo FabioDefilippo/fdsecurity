@@ -12,6 +12,15 @@ Q: How can I use these checksum values?
 
 A: You can create your scripts o tools that use SHA256 Hash algorithm to calculate suspicious files in your computer.
 
+Q: How can I calculate SHA256 checksum of a file?
+
+A: digit this powershell commandlet!
+
+NOTE: in this example, I will calculate SHA256 checksum of a file with exe extension, in List format:
+
+```
+Get-FileHash FILE_TO_CHECK.exe | Format-List
+```
 
 ## WARNING:
 
