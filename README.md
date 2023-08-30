@@ -10,7 +10,7 @@ Extensions: bat, cmd, dll, doc, docm, exe, hta, js, pdf, rar, rtf, vbe, vbs, xls
 
 Q: How can I use these checksum values?
 
-A: You can create your scripts o tools that use SHA256 Hash algorithm to calculate suspected files in your computer.
+A: You can create your scripts o tools that use SHA256 Hash algorithm to calculate suspicious files in your computer.
 
 
 ## WARNING:
