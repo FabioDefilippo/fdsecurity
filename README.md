@@ -1,6 +1,6 @@
 # fdsecurity
 
-## These are IoC values!
+## This repo contains IoC values and Compiled Yara Rules!
 
 Q: What are these XML files?
 
