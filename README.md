@@ -1,4 +1,4 @@
-# fdsecurity
+# FDSecurity
 
 ## This repo contains IoC values and Compiled Yara Rules!
 
