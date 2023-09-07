@@ -15,6 +15,9 @@ Click the buttons to stop scanners when You want.
 Q: May I add custom rules?
 
 A: Yes! Use the compiler yarac64.exe in FDSecurityAV folder, download o create your rules and compile them in a single file called malware.yarac ! Move your malware.yarac file (your compiled rules) in Rules folder, then run FDSecurityAV! The software will use your custom rules!
+```
+yarac64.exe .\NEW-YARA-RULE.yara .\Rules\malware.yarac
+```
 
 ## Sandbox:
 
