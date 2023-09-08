@@ -4,3 +4,4 @@ Here I will upload updated Compiled Yara Rules with no official Virus Total Yara
 3. CAPEv2;
 4. Elastic;
 5. Mandiant FireEye;
+6. Trellix AR;
