@@ -4,7 +4,7 @@
 
 </br>
 
-## This repo contains IoC values and Compiled Yara Rules!
+## This repo also contains IoC values and Compiled Yara Rules!
 
 Q: What are these XML files?
 
