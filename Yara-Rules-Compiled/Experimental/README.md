@@ -5,4 +5,4 @@ Here I will upload updated Compiled Yara Rules with no official Virus Total Yara
 4. Elastic;
 5. Mandiant FireEye;
 6. Trellix ATR;
-7. Reversing Labs;
+7. ReversingLabs;
