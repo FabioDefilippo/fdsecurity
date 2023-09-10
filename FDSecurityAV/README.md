@@ -4,6 +4,8 @@
 This software is released in <strong>beta-test</strong> and in <strong>unstable</strong> version. <strong>I DECLINE ALL RESPONSIBILITY about damage and corruption of your files</strong>.
 
 I have released my Antimalware software based on Yara Rules, with yara scanner. Download the FDSecurityAV-FULL-PACKAGE.zip file, decompress it and run the executable. This software will scan files and Processes to find evidence of malware.
+### REMEMBER:
+I update occasionally FDSecurityAV-update, so check new versions in name of zip file!
 
 <strong>Accepting the EULA, You will agree to use the software without my having any responsibility!</strong>
 
