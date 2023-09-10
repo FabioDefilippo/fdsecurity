@@ -6,3 +6,7 @@ Here I will upload updated Compiled Yara Rules with no official Virus Total Yara
 5. Mandiant FireEye;
 6. Trellix ATR;
 7. ReversingLabs;
+8. Tenable;
+9. BartBlaze;
+10. CyberDefenses;
+11. Citizen Lab;
