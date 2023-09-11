@@ -4,7 +4,7 @@
 
 Click <a href="https://www.youtube.com/watch?v=-Bzcot3mmYI&pp=ygUKZmRzZWN1cml0eQ%3D%3D">here</a> to view the Instructions!
 
-</br>
+</hr>
 
 ## This repo also contains IoC values and Compiled Yara Rules!
 
