@@ -1,6 +1,6 @@
 # FDSecurity
 
-## Welcome to the Official FDSecurityAV repository! If you want download FDSecurityAV software, click <a href="https://github.com/FabioDefilippo/fdsecurity/tree/main/FDSecurityAV">here</a> and download FDSecurityAV-v1.0.0.x.exe file!
+## Welcome to the Official FDSecurityAV repository! If you want download FDSecurityAV software, click <a href="https://github.com/FabioDefilippo/fdsecurity/tree/main/FDSecurityAV">here</a> and download FDSecurityAV-FULL-PACKAGE.zip file!
 
 </br>
 
