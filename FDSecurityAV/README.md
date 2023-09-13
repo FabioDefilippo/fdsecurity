@@ -7,6 +7,9 @@ I have released my Antimalware software based on Yara Rules, with yara scanner. 
 ### REMEMBER:
 I update occasionally FDSecurityAV-update, so check new versions in name of zip file!
 
+### WARNING:
+if You must install net core runtime, please follow this <a href="https://github.com/FabioDefilippo/fdsecurity/blob/main/FDSecurityAV/runtime-desktop-6.0.21-windows-x64-installer">link</a>
+
 <strong>Accepting the EULA, You will agree to use the software without my having any responsibility!</strong>
 
 ## What is FDSecurityAV?
