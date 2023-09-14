@@ -19,6 +19,7 @@ It's a SPERIMENTAL Antimalware with many features!
 1. Yara scanner to scan Processes and Files;
 2. Sandbox to test suspicious files;
 3. A detailed scan for single files;
+4. A Web browser to navigate to NoMoreRanson siteweb to recovery your encrypted files;
 
 ## How to use it?
 
