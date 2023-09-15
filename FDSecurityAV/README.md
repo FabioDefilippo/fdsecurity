@@ -20,6 +20,7 @@ It's a SPERIMENTAL Antimalware with many features!
 2. Sandbox to test suspicious files;
 3. A detailed scan for single files;
 4. A Web browser to navigate to NoMoreRanson siteweb to recovery your encrypted files;
+5. A fast scan mode to have quickly results;
 
 ## How to use it?
 
