@@ -16,11 +16,13 @@ if You must install net core runtime, please follow this <a href="https://github
 
 It's a SPERIMENTAL Antimalware with many features!
 
-1. Yara scanner to scan Processes and Files;
-2. Sandbox to test suspicious files;
+1. The Yara scanner to scan Processes and Files;
+2. A Sandbox to test suspicious files;
 3. A detailed scan for single files;
 4. A Web browser to navigate to NoMoreRanson siteweb to recovery your encrypted files;
 5. A fast scan mode to have quickly results;
+6. A File Watcher to monitor UserProfile Folder and Subdirectories;
+7. A feature for filtering file extensions;
 
 ## How to use it?
 
